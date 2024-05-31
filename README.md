@@ -13,7 +13,7 @@ Project Description:
   Using the traditional for loop and calling the flip method cards are iterated 26 times and  compared and score is kept. 
   After the loop, final scores are compared and winner is announced. 
 
-Code Snippets: Comparing each players cards 
+Code Snippet: Comparing each players cards 
 
 // Comparing each player's card. Player with higher card wins the round and their score increases by 1.
    // If both players have same cards, then its a tie, score is not increased for either player.
